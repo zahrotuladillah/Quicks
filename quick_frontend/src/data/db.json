@@ -1,0 +1,353 @@
+{
+
+    "inbox": [{
+            "id": 1,
+            "groupName": "Ngopi Seru",
+            "participants": [1, 2, 3, 4],
+            "chats": [{
+                    "id": 1,
+                    "sender": 1,
+                    "text": "Hai semua, ada yang mau ngopi sore-sore?",
+                    "replied": 0,
+                    "dateTime": "2024-05-09T15:00:00"
+                },
+                {
+                    "id": 2,
+                    "sender": 2,
+                    "text": "Wah, bagus ide! Di mana nih? Aku ikut deh.",
+                    "replied": 0,
+                    "dateTime": "2024-05-09T15:15:00"
+                },
+                {
+                    "id": 3,
+                    "sender": 3,
+                    "text": "Aku juga mau. Ada saran tempat ngopi?",
+                    "replied": 2,
+                    "dateTime": "2024-05-09T15:30:00"
+                },
+                {
+                    "id": 4,
+                    "sender": 4,
+                    "text": "Aku dengar ada kedai kopi baru di dekat taman. Kita coba?",
+                    "replied": 3,
+                    "dateTime": "2024-05-09T15:45:00"
+                },
+                {
+                    "id": 5,
+                    "sender": 1,
+                    "text": "Oke, kita janjian di sana jam 4 ya. Aku tunggu kalian!",
+                    "replied": 4,
+                    "dateTime": "2024-05-09T16:00:00"
+                },
+                {
+                    "id": 6,
+                    "sender": 3,
+                    "text": "Aku nih yang datang terakhir kali! Maaf telat, guys.",
+                    "replied": 5,
+                    "dateTime": "2024-05-09T16:30:00"
+                },
+                {
+                    "id": 7,
+                    "sender": 2,
+                    "text": "Tenang, gak masalah. Yang penting udah bareng-bareng.",
+                    "replied": 6,
+                    "dateTime": "2024-05-09T17:00:00"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "groupName": "Nonton Bareng",
+            "participants": [1, 3, 5],
+            "chats": [{
+                    "id": 1,
+                    "sender": 3,
+                    "text": "Ayo guys, ada film bagus di bioskop. Mau nonton bareng?",
+                    "replied": 0,
+                    "dateTime": "2024-05-09T18:00:00"
+                },
+                {
+                    "id": 2,
+                    "sender": 2,
+                    "text": "Saya mau ikut! Kapan dan film apa?",
+                    "replied": 0,
+                    "dateTime": "2024-05-09T18:15:00"
+                },
+                {
+                    "id": 3,
+                    "sender": 5,
+                    "text": "Saya juga mau. Sebaiknya nonton malam ini atau besok?",
+                    "replied": 2,
+                    "dateTime": "2024-05-09T18:30:00"
+                },
+                {
+                    "id": 4,
+                    "sender": 3,
+                    "text": "Malam ini aja kali ya. Film horor bagus nih.",
+                    "replied": 3,
+                    "dateTime": "2024-05-09T18:45:00"
+                },
+                {
+                    "id": 5,
+                    "sender": 2,
+                    "text": "Oke, aku setuju. Kita lihat di bioskop jam berapa tayangnya.",
+                    "replied": 4,
+                    "dateTime": "2024-05-09T19:00:00"
+                },
+                {
+                    "id": 6,
+                    "sender": 5,
+                    "text": "Nah, kita pesen tiketnya sekarang aja biar gak kehabisan.",
+                    "replied": 5,
+                    "dateTime": "2024-05-09T19:30:00"
+                },
+                {
+                    "id": 7,
+                    "sender": 3,
+                    "text": "Oke, aku pesen ya. Kita ketemu di bioskop jam 8!",
+                    "replied": 6,
+                    "dateTime": "2024-05-09T20:00:00"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "groupName": "Gibah Asik",
+            "participants": [1, 4, 5],
+            "chats": [{
+                    "id": 1,
+                    "sender": 1,
+                    "text": "Ada gosip seru nih, teman-teman. Siapa mau denger?",
+                    "replied": 0,
+                    "dateTime": "2024-05-09T21:00:00"
+                },
+                {
+                    "id": 2,
+                    "sender": 4,
+                    "text": "Aku denger! Apa gosipnya?",
+                    "replied": 0,
+                    "dateTime": "2024-05-09T21:15:00"
+                },
+                {
+                    "id": 3,
+                    "sender": 5,
+                    "text": "Aku juga pengen tau. Ceritain dong!",
+                    "replied": 0,
+                    "dateTime": "2024-05-09T21:30:00"
+                },
+                {
+                    "id": 4,
+                    "sender": 1,
+                    "text": "Nah loh, gosipnya tentang tetangga sebelah yang baru pindah.",
+                    "replied": 0,
+                    "dateTime": "2024-05-09T21:45:00"
+                },
+                {
+                    "id": 5,
+                    "sender": 5,
+                    "text": "Wah, seru! Ada cerita apa?",
+                    "replied": 4,
+                    "dateTime": "2024-05-09T22:00:00"
+                },
+                {
+                    "id": 6,
+                    "sender": 4,
+                    "text": "Sisanya ceritain nanti aja di bawah pohon jambu, ya.",
+                    "replied": 5,
+                    "dateTime": "2024-05-09T22:30:00"
+                },
+                {
+                    "id": 7,
+                    "sender": 1,
+                    "text": "Oke, nanti sore kita kumpul di situ. Jangan telat ya!",
+                    "replied": 6,
+                    "dateTime": "2024-05-10T10:00:00"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "groupName": "Belajar Bareng",
+            "participants": [1, 3, 4],
+            "chats": [{
+                    "id": 1,
+                    "sender": 3,
+                    "text": "Hai, ada yang mau belajar bareng untuk ujian besok?",
+                    "replied": 0,
+                    "dateTime": "2024-05-10T11:00:00"
+                },
+                {
+                    "id": 2,
+                    "sender": 1,
+                    "text": "Aku mau. Kita bisa bertemu di perpustakaan jam 3?",
+                    "replied": 0,
+                    "dateTime": "2024-05-10T11:15:00"
+                },
+                {
+                    "id": 3,
+                    "sender": 4,
+                    "text": "Saya juga mau ikut. Kita bisa bahas materi bersama.",
+                    "replied": 2,
+                    "dateTime": "2024-05-10T11:30:00"
+                },
+                {
+                    "id": 4,
+                    "sender": 3,
+                    "text": "Oke, jam 3 di perpustakaan. Kita bawa makanan ringan ya biar semangat belajarnya!",
+                    "replied": 3,
+                    "dateTime": "2024-05-10T11:45:00"
+                },
+                {
+                    "id": 5,
+                    "sender": 1,
+                    "text": "Setuju! Aku bawa cemilan favoritku.",
+                    "replied": 4,
+                    "dateTime": "2024-05-10T12:00:00"
+                },
+                {
+                    "id": 6,
+                    "sender": 4,
+                    "text": "Oke, aku bawa minuman segar biar gak ngantuk.",
+                    "replied": 5,
+                    "dateTime": "2024-05-10T12:30:00"
+                },
+                {
+                    "id": 7,
+                    "sender": 3,
+                    "text": "Mantap! Sore nanti kita bisa refresh otak bareng.",
+                    "replied": 6,
+                    "dateTime": "2024-05-10T13:00:00"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "groupName": "Makan-Makan",
+            "participants": [1, 2, 5],
+            "chats": [{
+                    "id": 1,
+                    "sender": 5,
+                    "text": "Eh, ada yang mau makan malam bersama?",
+                    "replied": 0,
+                    "dateTime": "2024-05-10T15:00:00"
+                },
+                {
+                    "id": 2,
+                    "sender": 2,
+                    "text": "Aku mau! Kapan dan di mana?",
+                    "replied": 0,
+                    "dateTime": "2024-05-10T15:15:00"
+                },
+                {
+                    "id": 3,
+                    "sender": 4,
+                    "text": "Aku juga mau, asal makanannya enak.",
+                    "replied": 0,
+                    "dateTime": "2024-05-10T15:30:00"
+                },
+                {
+                    "id": 4,
+                    "sender": 5,
+                    "text": "Aku dengar ada restoran baru di dekat pasar. Kita coba?",
+                    "replied": 0,
+                    "dateTime": "2024-05-10T15:45:00"
+                },
+                {
+                    "id": 5,
+                    "sender": 2,
+                    "text": "Oke, besok jam 7 malam di restoran itu ya.",
+                    "replied": 4,
+                    "dateTime": "2024-05-10T16:00:00"
+                },
+                {
+                    "id": 6,
+                    "sender": 4,
+                    "text": "Deal! Aku penasaran sama menu makanannya.",
+                    "replied": 5,
+                    "dateTime": "2024-05-10T16:30:00"
+                },
+                {
+                    "id": 7,
+                    "sender": 5,
+                    "text": "Oke, besok kita nikmati makan malam yang lezat!",
+                    "replied": 6,
+                    "dateTime": "2024-05-10T17:00:00"
+                }
+            ]
+        }
+    ],
+
+
+    "task": [{
+            "id": 1,
+            "taskName": "Prepare Presentation",
+            "endDate": "2024-05-15",
+            "description": "Create slides and rehearse the presentation.",
+            "bookmark": ["Important ASAP", "Client Related"]
+        },
+        {
+            "id": 2,
+            "taskName": "Complete Report",
+            "endDate": "2024-05-20",
+            "description": null,
+            "bookmark": ["Important ASAP", "ASAP"]
+        },
+        {
+            "id": 3,
+            "taskName": "Organize Team Meeting",
+            "endDate": "2024-05-17",
+            "description": "Coordinate schedules and agenda.",
+            "bookmark": ["Offline Meeting", "Self Task"]
+        },
+        {
+            "id": 4,
+            "taskName": "Review Contracts",
+            "endDate": "2024-05-25",
+            "description": null,
+            "bookmark": ["Client Related", "Appointments"]
+        },
+        {
+            "id": 5,
+            "taskName": "Prepare Budget Proposal",
+            "endDate": "2024-05-30",
+            "description": "Analyze expenses and create proposal.",
+            "bookmark": ["Virtual Meeting", "Court Related"]
+        }
+    ],
+
+    "users": [{
+            "email": "chloegreen@gmail.com",
+            "password": "$2a$10$W0Kp/8LphRGzFKT7uKtVp.uYP1rDINi54qShJlnS6J1fjR9ESVeq.",
+            "name": "Chloe Green",
+            "role": "user",
+            "id": 1
+        }, {
+            "email": "bayukusuma@gmail.com",
+            "password": "$2a$10$eIHQe28GJW6.8BkL9p4T8Ox4fiQo9auAB1nATRRsIMo0L82.8XPM6",
+            "name": "Bayu Kusuma",
+            "role": "user",
+            "id": 2
+        },
+        {
+            "email": "andiniarum@gmail.com",
+            "password": "$2a$10$zI4N5b9GZ9nm5G8zFq/QVe1Vq9U.tIufL2bATkJ9dUtpkXel0Xd1K",
+            "name": "Andini Arum",
+            "role": "user",
+            "id": 3
+        },
+        {
+            "email": "akbarsetiawan@gmail.com",
+            "password": "$2a$10$zE5Eo1ExoSgTIOABb2yeQ.xCnb3fLOAM2DBQzeAn1UV1NWlvVOHQm",
+            "name": "Akbar Setiawan",
+            "role": "user",
+            "id": 4
+        },
+        {
+            "email": "ameliarose@gmail.com",
+            "password": "$2a$10$hx3qYo/Eqf/TX0T90deNruVrJ/Ynp//1jOocdSZK04dBN1YZ8MSzu",
+            "name": "Amelia Rose",
+            "role": "user",
+            "id": 5
+        }
+    ]
+}
